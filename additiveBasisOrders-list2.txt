@@ -1,0 +1,27 @@
+2 0100 0
+ has asymptotic additive basis order 2
+2 0100 1
+ forms an additive basis and has asymptotic additive basis order 3
+ has additive basis order 4
+2 0101 1
+ forms an additive basis and has asymptotic additive basis order 2
+ has additive basis order 2
+2 0110 0
+ has asymptotic additive basis order 3
+2 0110 1
+ forms an additive basis and has asymptotic additive basis order 2
+ has additive basis order 2
+2 0111 1
+ forms an additive basis and has asymptotic additive basis order 1
+ has additive basis order 1
+Polynomial growth and GCD!=1: 1
+Polynomial growth and GCD==1: 0
+Exponential growth and GCD!=1: 1
+Exponential growth and GCD==1: 6
+Form additive basis: 4
+1 automata with asymptotic additive basis order 1
+3 automata with asymptotic additive basis order 2
+2 automata with asymptotic additive basis order 3
+1 automata with additive basis order 1
+2 automata with additive basis order 2
+1 automata with additive basis order 4
