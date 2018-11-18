@@ -3,7 +3,7 @@ Containing files and code relating to Thomas Finn Lidbetter's University of Wate
 
 ---
 
-The `list2.txt`, `list3.txt`, etc., files contain representations of all minimal automata with 2, 3, etc., states respectively.
+The `list2.txt`, `list3.txt`, etc., files contain representations of all minimal automata with 2, 3, etc., states respectively. Note that the file containing all minimal automata with 5 states was too large to be uploaded directly to github without compression. 
 
 The `additiveBasisOrders-listN.txt` files list the automata that correspond to sets forming (asymptotic) additive bases, together with their additive basis order and asymptotic additive basis order.
 
